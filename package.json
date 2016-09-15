@@ -1,0 +1,22 @@
+﻿{
+    "name": "laypage",
+    "version": "1.3.0",
+    "description": "分页组件",
+    "main": "",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "",
+        "url": ""
+    },
+    "author": "贤心",
+    "homepage": "http://laypage.layui.com/",
+    "devDependencies": {
+        "grunt": "*",
+        "grunt-contrib-uglify": "*",
+        "grunt-contrib-cssmin": "*",
+        "grunt-css": "*"
+        
+    }
+}
